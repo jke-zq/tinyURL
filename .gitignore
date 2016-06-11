@@ -1,2 +1,4 @@
 **/compiled/
 **/*.pyc
+**/*tar.gz
+**/*.egg-info
